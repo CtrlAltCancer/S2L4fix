@@ -74,7 +74,7 @@ int gioco(){
     
     char Ris4;
     printf("Domanda 4:\nCosa uso per digitare sul PC?\n");
-    printf("A: Schermo | B: Acqua | C: Mouse \n");
+    printf("A: Schermo | B: Acqua | C: Tastiera \n"); //Ero sovrappensiero e ho scritto mouse, modificato.
     printf("Rispondi, ma pensaci bene... \n");
     scanf(" %c",&Ris4);
     if (Ris4 == 'C'){
